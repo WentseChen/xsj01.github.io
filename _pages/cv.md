@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-If the embedded PDF below does not load, you can <u><a href="files/resume.pdf">download it here.</a></u>
+If the embedded PDF below does not load, you can <u><a href="https://sjxue.me/files/resume.pdf">download it here.</a></u>
 <br/>
 
-<embed src="files/resume.pdf" type="application/pdf" width="100%" />
+<embed src="https://sjxue.me/files/resume.pdf" type="application/pdf" width="100%" />
 
 
-Education
+<!-- Education
 ======
 * B.S. in Physics, Peking University, 2018
 * M.S. in Nuclear Science and Engineering, Massachusetts Institute of Technology, 2021
@@ -25,7 +25,7 @@ Education
 Work experience
 ======
 * 2020: Research Intern
-  * Uber ATG
+  * Uber ATG -->
 
 <!-- 
 Publications
