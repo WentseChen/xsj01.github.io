@@ -20,11 +20,11 @@ Work experience
 * 2020: Research Intern
   * Uber ATG
 
-
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 
