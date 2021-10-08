@@ -14,6 +14,7 @@ Education
 * B.S. in Physics, Peking University, 2018
 * M.S. in Nuclear Science and Engineering, Massachusetts Institute of Technology, 2021
 * M.S. in Electrical Engineering and Computer Science, Massachusetts Institute of Technology, 2021
+* Ph.D. in Computer Science, Georgia Institute of Technology, 2021-
 
 Work experience
 ======
