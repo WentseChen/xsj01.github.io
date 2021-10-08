@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+If the embedded PDF below does not load, you can <u><a href="files/resume.pdf">download it here.</a></u>
+<br/>
+
+<embed src="files/resume.pdf" type="application/pdf" width="100%" />
+
+
 Education
 ======
 * B.S. in Physics, Peking University, 2018
