@@ -16,9 +16,9 @@ You can reach me at xsj AT gatech DOT edu.
 
 Education
 ======
-* Ph.D. in Computer Science, Georgia Institute of Technology, 2021-
-* M.S. in Nuclear Science and Engineering, Massachusetts Institute of Technology, 2021
-* M.S. in Electrical Engineering and Computer Science, Massachusetts Institute of Technology, 2021
+* Ph.D. in Computer Science, Georgia Tech, 2021-
+* M.S. in Electrical Engineering and Computer Science, MIT, 2021
+* M.S. in Nuclear Science and Engineering, MIT, 2021
 * B.S. in Physics, Peking University, 2018
 
 Work experience
