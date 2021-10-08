@@ -12,8 +12,6 @@ I am a first-year Computer Science PhD student at Gerogia Tech. I am interested 
 
 You can reach me at xsj AT gatech DOT edu.
 
-[Resume](files/resume.pdf)
-
 Education
 ======
 * Ph.D. in Computer Science, Georgia Tech, 2021-
@@ -24,3 +22,5 @@ Education
 Work experience
 ======
 * Research Intern, Uber ATG, 2020
+
+[Resume](files/resume.pdf)
