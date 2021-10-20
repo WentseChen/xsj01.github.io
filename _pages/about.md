@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Computer Science PhD student at Gerogia Tech. I am interested in robotics and machine learning, especially in Task and Motion Planing (TAMP). Currently, I focus on developing algorithms to enable robotic system to perform long-term tasks in high dimensional spaces.
+I am a first-year Computer Science PhD student at Gerogia Tech. I am interested in robotics and machine learning, especially in Task and Motion Planning (TAMP). Currently, I focus on developing algorithms to enable robotic systems to perform long-term tasks in high-dimensional spaces.
 
 Prior to joining Georgia Tech, I finished my M.S at Massachusetts Institute of Technology and B.S at Peking University. In summer 2020, I interned at Uber ATG on self-driving car research.
 
