@@ -12,7 +12,6 @@ I am a first-year Computer Science PhD student at Gerogia Tech. I am interested 
 
 Prior to joining Georgia Tech, I finished my M.S at Massachusetts Institute of Technology and B.S at Peking University. In summer 2020, I interned at Uber ATG on self-driving car research.
 
-You can reach me at xsj AT gatech DOT edu.
 
 Education
 ======
@@ -44,3 +43,8 @@ Weiliang Yao$^\*$, Chenyuan Li$^\*$, Lichen Wang$^\*$, **Shangjie Xue**, Yang Da
 **Nature Physics** 14, no. 10 (2018): 1011-1015. 
 
  (* : Equal contribution)
+
+Contact
+======
+Email: xsj AT gatech DOT edu \
+Office: 266 Ferst Dr NW, Room 1333, Atlanta, GA, 30332, United States
