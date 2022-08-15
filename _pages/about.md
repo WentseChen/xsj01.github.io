@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year Computer Science PhD student at Gerogia Tech working with [Frank Dellaert](https://dellaert.github.io/). I am interested in robotics and machine learning, especially in Task and Motion Planning (TAMP). 
+I am a first-year Computer Science PhD student at Gerogia Tech, working with [Frank Dellaert](https://dellaert.github.io/). I am interested in robotics and machine learning, especially in Task and Motion Planning (TAMP). 
 
-Prior to joining Georgia Tech, I finished my M.S at Massachusetts Institute of Technology and B.S at Peking University. I was a research intern at Uber ATG working on self-driving car computer vision with [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/) and [Shenlong Wang](http://shenlong.web.illinois.edu/).
+Prior to joining Georgia Tech, I finished my M.S at Massachusetts Institute of Technology and B.S at Peking University. I was a research intern at Uber ATG, where I worked with [Raquel Urtasun](http://www.cs.toronto.edu/~urtasun/) and [Shenlong Wang](http://shenlong.web.illinois.edu/).
 
 
 Education
